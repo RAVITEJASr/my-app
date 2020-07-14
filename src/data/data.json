@@ -1,0 +1,37 @@
+{
+	"profiles":[
+		{
+			"basic":{
+				"name":"Puneeth",
+				"role":"FS Developer",
+				"phone":"9182250280",
+			    "email":"kundanampuneethkrishna@gmail.com"
+			
+			},
+			"carrer":"To work in a challenging environment which helps me to enhance my knowledge and to work as an full stack developer",
+			"technicalskills":"Programming languages:c,c++,java,python",
+			"technicalskills1":"Databases:oracle,sql,mysql",
+			"technicalskills2":"Operting System:windows,linux,dos",
+			"workshops":"1.Android App Development Through IIT",
+			"workshops1":"2.Web Designing Through APSSDC"
+
+	},
+
+	
+			{
+			"basic":{
+				"name":"Dayana D",
+				"role":"SE Developer",
+				"phone":"925834685",
+				"email":"dayana@gmail.com"
+			},
+			"carrer":"To work in a challenging environment which helps me to enhance my knowledge and to work as an software developer",
+			"technicalskills":"Programming languages:C,C++,Java,C#",
+			"technicalskills1":"Databases:oracle,Firebase",
+			"technicalskills2":"Operting System:Windows,Linux,ubuntu",
+			"workshops":"1.Cross Platform Mobile App Development held by BITES",
+			"workshops1":"2.Three day workshop on IOT organised by BITES"
+			
+			}
+		]
+}
